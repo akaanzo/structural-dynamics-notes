@@ -1,2 +1,86 @@
-# structuralDynamics
- Notes on structural Dynamics 
+# Appunti di Dinamica delle Strutture
+
+I seguenti appunti sono stati scritti durante il corso di Teoria e Dinamica delle Strutture tenuto dal Professore Francesco Dal Corso durante l'anno accademico 2019/2020. Gli appunti possono contenere errori; nel caso il lettore ne riscontrasse è invitato a comunicarli inviando una mail all'indirizzo <matteo.franzoi-1@studenti.unitn.it>
+
+TOC:
+
+- Introduzione
+- Teoria della plasticità
+    - Plasticità 1D - legame costitutivo monodimensionale
+    - Criteri di resistenza per materiali isotropi
+    - Plasticità 3D
+    - Equazione di Prandtl - Reuss (Flow theory of plasticity - 1921)
+    - Postulato di Drucker (o di massima dissipazione)
+    - Problema al contorno
+    - Collasso plastico
+    - Analisi limite
+        - Teorema zero
+        - Teorema statico (o del limite inferiore)
+        - Teorema cinematico (o del limite superiore)
+    - Azione assiale plastica
+    - Flessione plastica
+        - Sezione a doppio asse di simmetria
+        - Sezione rettangolare
+        - Sezione a doppio 'T'
+        - Sezione a un asse di simmetria
+        - Sezione a triangolo 
+        - Sezione a 'T' sottile
+        - Sezione a 'T' spessa
+    - Cerniera plastica
+        - Sistemi a una campata - esercizi
+        - Sistemi a più campate - esercizi
+    - Collasso e deformabilità
+    - Domini di interazione
+        - Dominio M-N
+        - Dominio M-T
+    - Cerniera plastica mobile
+
+- Dinamica delle Strutture
+    - Oscillatore semplice a 1 gdl
+        - Moto impresso
+        - Oscillazioni libere
+        - Forzante costante a gradino 
+        - Forzante sinusoidale
+        - Oscillatore semplice smorzato (viscosamente)
+        - I° metodo di valutazine di ν equivalente
+        - Smorzamento per attrito (Coulomb)
+        - Oscillazioni smorzate con forzante a gradino
+        - Oscillazioni smorzate con forzante sinusoidale
+        - II°metodo di valutazine di ν equivalente(sperimentalmente)
+        - Ciclo di isteresi dinamica
+        - Forzante periodica   
+        -  Forzante onda quadra 
+        - Vibrometro e accelerometro
+        - Forzante generica
+        - Forzante lineare nel tempo
+        - Forzante a gradino con crescita lineare  
+    - Sistemi a N gdl
+        - Equazioni di Lagrange
+        - Condensazione statica
+        - Oscillazioni libere non smorzate
+        - Normalizzazione degli autovalori
+        - Ortogonalità dei modi di vibrare
+        - Coordinate principali
+        - Risposta forzata
+        - Forze equivalenti a moto impresso
+        - Smorzamento in sistemi a N gdl
+        - Smorzamento classico
+        - Smorzamento di Rayleigh (o semplice)
+        - Smorzamento di Caughey
+        - Combinazione delle azioni in dinamica 
+        - Costruzioni simmetriche e costruzioni con pianta nonsimmetrica
+        - Trascurabilità dell’inerzia torsionale propria
+        - Analisi dinamica di aste inclinate 
+        - Principi di isolamento 
+    - Sistemi continui
+        - Vibrazioni flessionali di travi
+        - Oscillazioni libere
+        - Smorzamento in sistemi continui
+        - Sistemi a pi`u campate
+        - Influenza dell’inerzia rotazionale 
+        - Influenza dell’azione assiale 
+        - Oscillazioni smorzate 
+        - Smorzamento classico
+        - Carico concentrato con modulo dinamico
+        - Carico mobile su ponte 
+    - Sistemi a 1 gdl generalizzato
